@@ -27,7 +27,7 @@ $files = array(
 
 $autoloadFile = null;
 
-foreach ($files as $file) {
+foreach ($files  as  $file) {
     if (file_exists($file)) {
         $autoloadFile = $file;
         break;
