@@ -1,0 +1,4 @@
+build/fusio/
+cache/
+vendor/
+.env
